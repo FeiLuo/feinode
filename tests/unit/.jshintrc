@@ -1,0 +1,9 @@
+{
+  "extends" : "../../js/.jshintrc",
+  "devel"   : true,
+  "es3"     : false,
+  "phantom" : true,
+  "qunit"   : true,
+  "strict"  : false,
+  "unused"  : false
+}

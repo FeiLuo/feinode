@@ -1,0 +1,14 @@
+{
+  "browser"  : true,
+  "eqeqeq"   : false,
+  "eqnull"   : true,
+  "es3"      : true,
+  "expr"     : true,
+  "indent"   : 2,
+  "jquery"   : true,
+  "latedef"  : true,
+  "nonbsp"   : true,
+  "strict"   : true,
+  "undef"    : true,
+  "unused"   : true
+}

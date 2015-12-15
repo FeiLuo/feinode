@@ -1,0 +1,11 @@
+{
+  "source": [
+    "less"
+  ],
+  "destination": "docs/",
+  "css": [
+    "dist/css/feinode.min.css",
+    "public/feinode-kss.css"
+  ],
+  "template": "template/"
+}
